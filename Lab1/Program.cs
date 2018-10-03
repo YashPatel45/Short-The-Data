@@ -2,14 +2,9 @@
 using System.IO;
 
 /**
- * Name and Number: Yash Patel, 000770109
- * Date: 21 September, 2018
  * Purpose: The program contain the array, name Employee and which shows the name, number, pay, hours, gross pay of each employee and 
  * any user can input a number between 1 to 5 and it will short the all data decribed as in questions, 6 number will exit the program
  * the whole consept of this program is shorting the data
- * Statement of Authorship: I, Yash Patel, student number 000770109, certify that all code submitted is my own work;
- * that I have not copied it from any other source.  I also certify that I have not allowed my work to be copied by others. 
- * reference of the sort algorithm """"" https://stackoverflow.com/questions/14768010/simple-bubble-sort-c-sharp """"
  */
 
 namespace Lab1
